@@ -1,0 +1,32 @@
+.siteheader {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.comentariosaba {
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.titulo {
+    color: purple;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.descricao {
+    font-size: 24px;
+    text-align: center;
+}
+
+.categoria {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.imagem {
+    width: 900px;
+    height: 600px;
+    border-radius: 30px;
+}

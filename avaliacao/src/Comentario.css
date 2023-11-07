@@ -1,0 +1,20 @@
+.nome {
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.comentario {
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.imagemusuario {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin-left: 20px;
+    border-radius: 90px;
+}
+
